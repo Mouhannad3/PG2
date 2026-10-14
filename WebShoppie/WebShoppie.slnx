@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Storage/">
+    <Project Path="Storage/WebShoppie.Storage.DataModel/WebShoppie.Storage.DataModel.csproj" />
+    <Project Path="Storage/WebShoppie.Storage/WebShoppie.Storage.csproj" />
+  </Folder>
+  <Project Path="Api/WebShoppie.Api.Contracts/WebShoppie.Api.Contracts.csproj" />
+  <Project Path="Api/WebShoppie.Api/WebShoppie.Api.csproj" />
+  <Project Path="Domain/WebShoppie.Domain.Services/WebShoppie.Domain.Services.csproj" />
+</Solution>
